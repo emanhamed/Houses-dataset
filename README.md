@@ -1,3 +1,20 @@
+## **Dataset**
+
+This is the dataset proposed and introduces in our paper: "House price estimation from visual and textual features"
+https://arxiv.org/pdf/1609.08399.pdf
+
+
+## **Cite**
+If you are using this dataset, please, cite our paper: 
+@article{ahmed2016house,
+  title={House price estimation from visual and textual features},
+  author={Ahmed, Eman and Moustafa, Mohamed},
+  journal={arXiv preprint arXiv:1609.08399},
+  year={2016}
+}
+
+## **Details**
+
 1. Title: Houses Dataset
 
 2. Description:  This is a benchmark dataset for houses prices that contains both visual and textual information. Each house is represened by four images for bedroom, bathroom, kitchen and a frontal image of the house. This is the first dataset that contains images to be used for houses prices estimation. The dataset folder contains 2140 images, 4 images for each house. Also, it contains a text file that contains the textual metadata of the dataset. Each row in the file respesents the number of house in order. The numbers represent number of bedrooms, number of bathrooms, area of the house, zipcode and the price. 
